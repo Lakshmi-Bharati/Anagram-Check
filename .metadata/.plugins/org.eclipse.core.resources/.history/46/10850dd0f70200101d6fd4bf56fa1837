@@ -1,0 +1,11 @@
+package com.example.anagram;
+
+
+public class AnagramCheck {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

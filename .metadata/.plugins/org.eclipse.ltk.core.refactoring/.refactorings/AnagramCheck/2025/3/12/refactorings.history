@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;AnagramCheck&apos; to &apos;AnagramCheck1&apos;&#x0D;&#x0A;- Original project: &apos;AnagramCheck&apos;&#x0D;&#x0A;- Original element: &apos;AnagramCheck&apos;&#x0D;&#x0A;- Renamed element: &apos;AnagramCheck1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AnagramCheck&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{AnagramCheck.java[AnagramCheck" matchStrategy="1" name="AnagramCheck1" qualified="false" references="true" similarDeclarations="false" stamp="1742191941183" textual="false" version="1.0"/>
+</session>
